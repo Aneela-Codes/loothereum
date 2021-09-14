@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/loothereum/static/css/main.ad2b78f9.chunk.css",
+    "main.js": "/loothereum/static/js/main.cd02460f.chunk.js",
+    "main.js.map": "/loothereum/static/js/main.cd02460f.chunk.js.map",
+    "runtime-main.js": "/loothereum/static/js/runtime-main.fd0aa39a.js",
+    "runtime-main.js.map": "/loothereum/static/js/runtime-main.fd0aa39a.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/loothereum/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.de9cdeab.chunk.js": "/loothereum/static/js/2.de9cdeab.chunk.js",
+    "static/js/2.de9cdeab.chunk.js.map": "/loothereum/static/js/2.de9cdeab.chunk.js.map",
+    "static/js/3.7f93c59e.chunk.js": "/loothereum/static/js/3.7f93c59e.chunk.js",
+    "static/js/3.7f93c59e.chunk.js.map": "/loothereum/static/js/3.7f93c59e.chunk.js.map",
+    "index.html": "/loothereum/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/loothereum/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.ad2b78f9.chunk.css.map": "/loothereum/static/css/main.ad2b78f9.chunk.css.map",
+    "static/js/2.de9cdeab.chunk.js.LICENSE.txt": "/loothereum/static/js/2.de9cdeab.chunk.js.LICENSE.txt",
+    "static/media/Ethcoin.5f9819e2.png": "/loothereum/static/media/Ethcoin.5f9819e2.png",
+    "static/media/chestbox.74a1925a.png": "/loothereum/static/media/chestbox.74a1925a.png",
+    "static/media/instagram.30b397e6.svg": "/loothereum/static/media/instagram.30b397e6.svg",
+    "static/media/logo.6ce24c58.svg": "/loothereum/static/media/logo.6ce24c58.svg",
+    "static/media/power.4ec2e671.PNG": "/loothereum/static/media/power.4ec2e671.PNG",
+    "static/media/tik-tok.da20ff5f.svg": "/loothereum/static/media/tik-tok.da20ff5f.svg",
+    "static/media/twitter.88d497cc.svg": "/loothereum/static/media/twitter.88d497cc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd0aa39a.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.de9cdeab.chunk.js",
+    "static/css/main.ad2b78f9.chunk.css",
+    "static/js/main.cd02460f.chunk.js"
+  ]
+}
